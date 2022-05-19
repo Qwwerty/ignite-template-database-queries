@@ -59,7 +59,7 @@ gh repo clone Qwwerty/ignite-template-database-queries
 - Entrar na pasta do projeto
 
 ```
-cd ignite-desafio-componentizando-a-aplicacao
+cd ignite-template-database-queries
 ```
 
 - Instale as dependências com o Yarn
