@@ -12,10 +12,6 @@ Visite à [Rockseat](https://rocketseat.com.br/) para saber mais sobre o curso.
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/code36u4r60/ignite-desafio-conceitos-do-nodejs?style=flat">
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Eduardo Queirós" src="https://img.shields.io/badge/made%20by-Eduardo%20Queirós-red">
-  </a>
-
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
   
 </p>
